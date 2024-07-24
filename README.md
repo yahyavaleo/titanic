@@ -2,7 +2,7 @@
 
 The [Titanic competition]("https://www.kaggle.com/competitions/titanic/overview") is based on the infamous shipwreck of Titanic in April 15, 1912. The goal of this competition is to create a model that predicts which passengers survived the Titanic shipwreck.
 
-My solution to this competition is in the form of the Jupyter Notebook, `titanic.ipynb`. In this notebook:
+You can see [my solution to this competition on Kaggle](https://www.kaggle.com/code/yahyavaleo/titanic). This repository contains a duplicate of that solution in the form of a Jupyter Notebook, `titanic.ipynb`. In this notebook:
 
 - I did a detailed analysis of the input features in order to understand what impact does each feature has on the target.
 - After selecting suitable features, I developed strategies to fill in missing values and created suitable encoding schemes for non-numerical features.
